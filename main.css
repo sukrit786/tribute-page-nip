@@ -27,12 +27,12 @@ h1,#diff,#Name,#timeline	{
  	#Name{
  			color:#2e2e1f;
  			font-style:'EB Garamond', serif;
-			font-size:200%;
+			font-size:150%;
 			max-width:1500px;
  		 }
     #timeline{
  		 font-family: 'EB Garamond', serif;
-        font-size: 200%;
+        font-size: 150%;
  		 }
  	h2{
  		color:#707070;
