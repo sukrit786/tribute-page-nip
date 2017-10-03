@@ -30,8 +30,9 @@ h1,#diff,#Name,#timeline	{
 			font-size:200%;
 			max-width:1500px;
  		 }
- 		 #timeline{
+    #timeline{
  		 font-family: 'EB Garamond', serif;
+        font-size: 200%;
  		 }
  	h2{
  		color:#707070;
